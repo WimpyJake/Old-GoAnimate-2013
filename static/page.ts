@@ -121,9 +121,9 @@ module.exports = function (req, res, url) {
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="dns-prefetch" href="https://josephcrosmanplays532.github.io">
-<title>The Video Maker from Vyond - Make a Video for YouTube!</title>
+<title>The Video Maker from GoAnimate - Make a Video for YouTube!</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="The Video Maker lets You make a video for YouTube for free! Drag &amp; drop or type &amp; go.  It's Fast, Fun, Easy and Free -  Vyond!">
+<meta name="description" content="The Video Maker lets You make a video for YouTube for free! Drag &amp; drop or type &amp; go.  It's Fast, Fun, Easy and Free -  GoAnimate!">
 <meta property="og:site_name" content="Vyond">
 <meta property="fb:app_id" content="177116303202">
 <meta name="google-site-verification" content="K_niiTfCVi72gwvxK00O4NjsVybMutMUnc-ZnN6HUuA">
@@ -234,7 +234,8 @@ height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</
         <div id="studio-voice-vendor-container">
             <ul>
                 <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/img/video_voice/btn_vb.png"></a></li>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-iw" target="_blank" href="https://www.inwhatlanguage.com/goanimate-translations/" data-gtmv-page="/pageTracker/voicebanner/InWhatLanguage" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/img/video_voice/btn_iw.png"></a></li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-sp" target="_blank" href="https://sitepal.com" data-gtmv-page="/pageTracker/voicebanner/SitePal" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_sp.png"></a></li>
                 <li>
                     <hr class="sperator">
                     <a class="voiceover-tips gtm-ga-pageview-t2" target="_blank" href="http://goanimate.com/video-maker-tips/tutorial-why-you-should-break-up-your-dialogue-audio-into-small-pieces-before-importing/" data-gtmv-page="/pageTracker/voicebanner/VoiceoverTips" onclick="setvoicebannercookie();"><span><i class="lightbulb"></i>Voiceover Tips &gt;</span></a>
@@ -737,8 +738,9 @@ ImporterFile.defaults.options.restricted_mime = ["font\/x-font-ttf","font\/vnd.m
         <div class="close"><a href="javascript:hideVoiceAdWidget()" onclick="javascript:return hideVoiceAdWidget()">×</a></div>
         <div id="studio-voice-vendor-container">
             <ul>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/img/video_voice/btn_vb.png"></a></li>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-iw" target="_blank" href="https://www.inwhatlanguage.com/goanimate-translations/" data-gtmv-page="/pageTracker/voicebanner/InWhatLanguage" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/img/video_voice/btn_iw.png"></a></li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"></a></li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-sp" target="_blank" href="https://sitepal.com" data-gtmv-page="/pageTracker/voicebanner/SitePal" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_sp.png"></a></li>
                 <li>
                     <hr class="sperator">
                     <a class="voiceover-tips gtm-ga-pageview-t2" target="_blank" href="http://goanimate.com/video-maker-tips/tutorial-why-you-should-break-up-your-dialogue-audio-into-small-pieces-before-importing/" data-gtmv-page="/pageTracker/voicebanner/VoiceoverTips" onclick="setvoicebannercookie();"><span><i class="lightbulb"></i>Voiceover Tips &gt;</span></a>
@@ -749,9 +751,10 @@ ImporterFile.defaults.options.restricted_mime = ["font\/x-font-ttf","font\/vnd.m
         <div class="close"><a href="javascript:hideVoiceAdWidget()" onclick="javascript:return hideVoiceAdWidget()">×</a></div>
         <div id="studio-voice-vendor-container">
             <ul>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/img/video_voice/btn_vb.png"></a></li>
-                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-iw" target="_blank" href="https://www.inwhatlanguage.com/goanimate-translations/" data-gtmv-page="/pageTracker/voicebanner/InWhatLanguage" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/55910a7cd204c37c/go/img/video_voice/btn_iw.png"></a></li>
-                <li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vb" target="_blank" href="https://voicebunny.com/?p=vyond" data-gtmv-page="/pageTracker/voicebanner/VoiceBunny" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vb.png"></a></li>
+                <li><a class="gtm-ga-pageview-t2" id="voice-vendor-vc" target="_blank" href="https://voices.com" data-gtmv-page="/pageTracker/voicebanner/Voices.com" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_vc.png"></a></li>
+		<li><a class="gtm-ga-pageview-t2" id="voice-vendor-sp" target="_blank" href="https://sitepal.com" data-gtmv-page="/pageTracker/voicebanner/SitePal" onclick="setvoicebannercookie();"><img src="https://josephcrosmanplays532.github.io/static/477/go/img/video_voice/btn_sp.png"></a></li>
+		<li>
                     <hr class="sperator">
                     <a class="voiceover-tips gtm-ga-pageview-t2" target="_blank" href="http://goanimate.com/video-maker-tips/tutorial-why-you-should-break-up-your-dialogue-audio-into-small-pieces-before-importing/" data-gtmv-page="/pageTracker/voicebanner/VoiceoverTips" onclick="setvoicebannercookie();"><span><i class="lightbulb"></i>Voiceover Tips &gt;</span></a>
                 </li>
