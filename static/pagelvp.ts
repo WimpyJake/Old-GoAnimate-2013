@@ -371,7 +371,7 @@ jQuery('#bridgediv').flash({
 <script type="text/javascript">
 jQuery('#playerdiv').flash({
 	id: "Player",
-	swf: "https://josephcrosmanplays532.github.io/animation/18/player.swf",
+	swf: "https://josephcrosmanplays532.github.io/animation/808/player.swf",
 	height: 379,
 	width: 620,
 	bgcolor: "#D7D7D7",
